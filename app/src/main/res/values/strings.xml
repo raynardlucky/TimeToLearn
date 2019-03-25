@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TimeToLearn</string>
+    <string name="logo">Logo Time To Learn</string>
+    <string name="merah_text">Merah</string>
+    <string name="hijau_text">Hijau</string>
+    <string name="biru_text">Biru</string>
+    <string name="kuning_text">Kuning</string>
+    <string name="text_view">Baris Satu</string>
+    <string name="edit_text">Baris Dua</string>
+    <string name="button_text">Baris Tiga</string>
+    <string name="text_view_2">Baris Empat</string>
+    <string name="name_hint">Name</string>
+    <string name="email_hint">Email</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="submit_btn">Submit</string>
+    <string-array name="options">
+        <item>Raynard Linear Layout Kick</item>
+        <item>Raynard Relative Layout Punch</item>
+        <item>Raynard Card View Sidekick</item>
+    </string-array>
+</resources>
